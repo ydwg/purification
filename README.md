@@ -1,6 +1,6 @@
 ##介绍  
 这里是dev版本及测试版，可能会有这个问题，请谨慎使用
-***[正式版最新规则请点这里](https://github.com/XUANJI233/purification/blob/main/%E6%9C%80%E6%96%B0.txt)***
+***[正式版最新规则请点这里](https://github.com/XUANJI233/purification/blob/main/readme.md)***
 ## 说明
 此版本专为`搜书大师`专门优化过，可以直接导入，其中会于其他有冲突的为行前带`*`号的(不建议使用的，建议直接删除，当然也可以删除`*`正常使用)  
 ## 更新日志  
